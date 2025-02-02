@@ -6,7 +6,7 @@ Este laboratório demonstra como criar uma solução de mineração de conhecime
 
 ## Casos de uso:
 
-A busca indexada pode ser aplicada para analisar feedback dos seus consumidores, colaboradores, parceiros e assim permitir tomada de decisão mais agíl na identificação de tendências e áreas de melhoria em seus produtos ou serviços.
+A busca indexada pode ser aplicada para analisar feedbacks de consumidores, de colaboradores, ou ainda de parceiros. Uma vez indexada viabiliza a identificação de tendências e áreas de melhoria em seus produtos ou serviços, pois poderá ser integrada a outros dados ou sistemas para agilizar na tomada de decisão.
 
 ## Pré-requisitos
 
