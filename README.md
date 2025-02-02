@@ -2,11 +2,11 @@
 
 ## Visão Geral
 
-- Este laboratório demonstra como criar uma solução de mineração de conhecimento utilizando o Azure AI Search. Através da indexação de dados extraídos de avaliações de clientes, é possível facilitar a busca por insights sobre as experiências dos consumidores.
+Este laboratório demonstra como criar uma solução de mineração de conhecimento utilizando o Azure AI Search. Através da indexação de dados extraídos de avaliações de clientes, é possível facilitar a busca por insights sobre as experiências dos consumidores.
 
 ## Casos de uso:
 
-- A busca indexada pode ser aplicada para analisar feedback dos seus consumidores, colaboradores, parceiros e assim permitir tomada de decisão mais agíl na identificação de tendências e áreas de melhoria em seus produtos ou serviços.
+A busca indexada pode ser aplicada para analisar feedbacks de consumidores, de colaboradores, ou ainda de parceiros. Uma vez indexada viabiliza a identificação de tendências e áreas de melhoria em seus produtos ou serviços, pois poderá ser integrada a outros dados ou sistemas para agilizar na tomada de decisão.
 
 ## Pré-requisitos
 
