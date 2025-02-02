@@ -12,8 +12,11 @@
 
 - Assinatura ativa do Microsoft Azure. [https://azure.microsoft.com](https://azure.microsoft.com).
 - AI Search
+  ![print screen](ai-search-deployment.png "ai-search-deployment.png.png")
 - Azure AI Services
+  ![print screen](az-ai-services-deployment.png "az-ai-services-deployment.png")
 - Storage Account
+  ![print screen](st-container-deployment.png "st-container-deployment.png")
 
 ## Etapas para Execução
 
